@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase": "7.9.2",
+    "react-navigation": "latest",
+    "@expo/vector-icons": "^13.0.0",
+    "react-native-paper": "3.6.0",
+    "@react-navigation/native": "^3.8.4"
+  }
+}
